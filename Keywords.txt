@@ -1,0 +1,21 @@
+####
+# Syntax Coloring map for 
+###
+
+###
+# Datatypes(KEYWORD1)
+###
+
+ByteTransfer KEYWORD1
+
+###
+# Methods and Functions(KEYWORD2)
+###
+
+checkSerialMonitor KEYWORD2
+printBin KEYWORD2
+sendSignal KEYWORD2
+
+###
+# Constants(LITERAL1)
+###
